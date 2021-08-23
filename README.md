@@ -1,5 +1,4 @@
 # Distance to the MKAD API
-> *This is the result of the test set by Voctiv, to apply for the vacancy of Python developer.*
 
 ## Work description
 I develop a Flask Blueprint to find the distance from the Moscow Ring Road to the specified address. The address is passed to the application in an HTTP request, if the specified address is located inside the MKAD, the distance does not need to be calculated.
